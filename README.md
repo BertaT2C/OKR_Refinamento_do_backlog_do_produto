@@ -1,6 +1,7 @@
 # ✅Melhoria de performance 
 
-![SaatKaçGIF](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios/assets/99225701/de23fde7-d1c9-4bfb-ae2a-e7107b2d16c9)
+![NightRoundTheClockGIF](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/0469edea-70be-4d57-8dc2-4251304cf068)
+
 
 
 Durante a execução de um projeto, especialmente durante as reuniões de refinamento, os desenvolvedores muitas vezes enfrentam desafios de compreensão
