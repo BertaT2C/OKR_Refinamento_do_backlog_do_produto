@@ -7,16 +7,16 @@ Busca eliminar desperdícios, identificar e remover causas de defeitos, minimiza
 
 
 
-Durante a execução de um projeto, especialmente durante as reuniões de refinamento, os desenvolvedores muitas vezes enfrentam desafios de compreensão
+Durante a execução de um projeto, especialmente durante as reuniões de refinamento, os desenvolvedores muitas vezes enfrentam desafios na compreensão
 da proposta do projeto.
-Essa situação leva à várias dúvidas, resultando em múltiplos refinamentos ao longo do tempo. As conversas particulares em momentos distintos do dia também 
+Essa situação leva à várias dúvidas, resultando em múltiplos refinamentos ao longo da planning. As conversas particulares em momentos distintos do dia também 
 contribui na ajuda da falta de alinhamento. 
 Essa falta de entendimento gera a necessidade de novas apresentações, prejudicando o progresso do projeto e aumentando o tempo necessário para sua conclusão.
 Consequentemente, isso muitas vezes leva à percepção de que o projeto não estava sendo bem explicado ou de que havia um gargalo na comunicação, dificultando 
   o entendimento por parte dos desenvolvedores.
 
-## 🟰 Objetivo: Melhorar a eficiência operacional e a qualidade dos processos através da implementação de novas abordagens e metodologias.
-A soluçāo consiste na implementação detalhada de cenários de usuário com regras minuciosas, antes os cenários eram genéricos e com regtas gerais, a partir do momento que foi iniciado o detalhamento aprimorado na escrita, houve uma compreensão bem mais profunda dos estudos de caso e das melhorias propostas. Como resultado, a equipe de negócios tornou-se mais preparada, capaz de analisar e discutir os casos com maior eficácia, levando a insights mais ricos e decisões mais fundamentadas.
+## 🟰 Objetivo da meta: Melhorar a eficiência operacional e a qualidade dos processos através da implementação de novas abordagens e metodologias.
+A soluçāo consiste na implementação detalhada de cenários de usuário com regras minuciosas, antes os cenários eram genéricos e com regtas gerais, a partir do momento que foi iniciado o detalhamento aprimorado na escrita, houve uma compreensão bem mais profunda dos estudos de caso e das melhorias propostas. Como resultado, a equipe de negócios também tornou-se mais preparada, capaz de analisar e discutir os casos com maior eficácia, levando a insights mais ricos e decisões mais fundamentadas.
 Para calcular a melhoria de performance, podemos considerar o número total de dias antes e depois da implementação das melhorias dentro de uma sprint de 4 semanas. A fórmula seria:
 
 ## 🟰 Porcentagem de Melhoria da Performance
