@@ -16,7 +16,7 @@ Consequentemente, isso muitas vezes leva à percepção de que o projeto não es
   o entendimento por parte dos desenvolvedores.
 
 ## 🟰 Objetivo: Melhorar a eficiência operacional e a qualidade dos processos através da implementação de novas abordagens e metodologias.
-
+Portanto, implantei detalhamento de cenários de usuário com regras minuciosas, antes os cenários eram genéricos e com regtas gerais, a partir do momento que foi iniciado o detalhamento aprimorado na escrita, houve uma compreensão bem mais profunda dos estudos de caso e das melhorias propostas. Como resultado, a equipe de negócios tornou-se mais preparada, capaz de analisar e discutir os casos com maior eficácia, levando a insights mais ricos e decisões mais fundamentadas.
 Para calcular a melhoria de performance, podemos considerar o número total de dias antes e depois da implementação das melhorias dentro de uma sprint de 4 semanas. A fórmula seria:
 
 ## 🟰 Porcentagem de Melhoria da Performance
@@ -30,8 +30,7 @@ Para calcular a melhoria de performance, podemos considerar o número total de d
 ## = (Dias Antes − Dias Depois) / Dias antes × 100 %
 ## (7-3)/7 * 100% ≈ 57.14%
 
-A comunicação dentro da equipe tornou-se significativamente mais fluida após a implementação das mudanças. O detalhamento aprimorado na escrita proporcionou uma compreensão mais profunda dos estudos de caso e das melhorias propostas. Como resultado, a equipe de negócios tornou-se mais preparada, capaz de analisar e discutir os casos com maior eficácia, levando a insights mais ricos e decisões mais fundamentadas.
-
+A comunicação dentro da equipe tornou-se significativamente mais fluida após a implementação das mudanças.
 Além disso, a equipe de desenvolvimento agora tem uma abordagem mais ágil para lidar com suas dúvidas. O processo de comunicação foi aprimorado, permitindo que eles apresentassem suas dúvidas de maneira mais clara e concisa. Essas dúvidas foram então prontamente abordadas e solucionadas, resultando em uma resolução mais rápida de problemas e um progresso mais eficiente nos projetos.
 
 ![HhgfGIF](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/a1e9f792-dba1-4ab9-befc-a7254353696c)
