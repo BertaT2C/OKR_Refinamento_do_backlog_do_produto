@@ -16,7 +16,7 @@ Consequentemente, isso muitas vezes leva à percepção de que o projeto não es
   o entendimento por parte dos desenvolvedores.
 
 ## 🟰 Objetivo: Melhorar a eficiência operacional e a qualidade dos processos através da implementação de novas abordagens e metodologias.
-Portanto, implantei detalhamento de cenários de usuário com regras minuciosas, antes os cenários eram genéricos e com regtas gerais, a partir do momento que foi iniciado o detalhamento aprimorado na escrita, houve uma compreensão bem mais profunda dos estudos de caso e das melhorias propostas. Como resultado, a equipe de negócios tornou-se mais preparada, capaz de analisar e discutir os casos com maior eficácia, levando a insights mais ricos e decisões mais fundamentadas.
+A soluçāo consiste na implementação detalhada de cenários de usuário com regras minuciosas, antes os cenários eram genéricos e com regtas gerais, a partir do momento que foi iniciado o detalhamento aprimorado na escrita, houve uma compreensão bem mais profunda dos estudos de caso e das melhorias propostas. Como resultado, a equipe de negócios tornou-se mais preparada, capaz de analisar e discutir os casos com maior eficácia, levando a insights mais ricos e decisões mais fundamentadas.
 Para calcular a melhoria de performance, podemos considerar o número total de dias antes e depois da implementação das melhorias dentro de uma sprint de 4 semanas. A fórmula seria:
 
 ## 🟰 Porcentagem de Melhoria da Performance
