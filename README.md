@@ -1,6 +1,6 @@
 # ✅Melhoria da Eficiência Operacional e Qualidade dos Processos no Contexto Scrum Utilizando Conceitos de Lean Six Sigma
     
-Busca eliminar desperdícios, identificar e remover causas de defeitos, minimizar a variabilidade e melhorar a qualidade dos processos de negócios.
+Buscar a eliminação de desperdícios, identificar e remover causas de defeitos, minimizar a variabilidade e melhorar a qualidade dos processos de negócios.
 
 
 ![NightRoundTheClockGIF](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/0469edea-70be-4d57-8dc2-4251304cf068)
