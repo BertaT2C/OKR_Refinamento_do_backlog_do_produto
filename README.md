@@ -13,6 +13,15 @@ Melhorar a eficiência operacional e a qualidade dos processos através da imple
 ## 🟰 Solução Implementada:
 A solução consistiu na implementação detalhada de cenários de usuário com regras minuciosas. Diferentemente do método anterior, onde os cenários eram genéricos, iniciamos um detalhamento aprimorado na escrita. Desenvolvemos um fluxograma completo do projeto, incluindo etapas como timeout, not found e mensagens de erros da API, que antes não eram consideradas. Essa abordagem foi essencial para facilitar até mesmo o momento da homologação, pois o Analista QA utilizava esse passo a passo para entender os cenários de testes necessários e adquirir massa de testes previamente.
 
+### 🟰 Benefícios da Mudança:
+
+#### - Compreensão Profunda: 
+A nova abordagem resultou em uma compreensão muito mais profunda dos estudos de caso e das melhorias propostas pela equipe.
+#### - Redução de Dúvidas e Refinamentos:
+Com os cenários detalhados, houve uma significativa redução de dúvidas e refinamentos ao longo do planejamento do projeto.
+#### - Facilidade na Homologação:
+O processo de homologação tornou-se mais eficiente e eficaz, pois o Analista QA tinha um guia detalhado para conduzir os testes necessários.    
+
 ## 🟰 Cálculo da Melhoria de Performance:
 
 Para calcular a melhoria de performance, consideramos o número total de dias antes e depois da implementação das melhorias dentro de uma sprint de 4 semanas. 
