@@ -11,7 +11,7 @@ Buscar a eliminação de desperdícios, identificar e remover causas de defeitos
 Melhorar a eficiência operacional e a qualidade dos processos através da implementação de novas abordagens e metodologias, utilizando princípios do Lean Six Sigma.
 
 ## 🟰 Solução Implementada:
-A solução consistiu na implementação detalhada de cenários de usuário com regras minuciosas. Anteriormente, os cenários eram genéricos e com regras gerais, mas a partir do momento em que foi iniciado o detalhamento aprimorado na escrita, houve uma compreensão muito mais profunda dos estudos de caso e das melhorias propostas. Utilizando conceitos do Lean Six Sigma, identificamos as causa raíz dos problemas de comunicação e refinamos os processos para eliminar desperdícios e reduzir variações, tornando a comunicação mais fluida e eficiente.
+A solução consistiu na implementação detalhada de cenários de usuário com regras minuciosas. Diferentemente do método anterior, onde os cenários eram genéricos, iniciamos um detalhamento aprimorado na escrita. Desenvolvemos um fluxograma completo do projeto, incluindo etapas como timeout, not found e mensagens de erros da API, que antes não eram consideradas. Essa abordagem foi essencial para facilitar até mesmo o momento da homologação, pois o Analista QA utilizava esse passo a passo para entender os cenários de testes necessários e adquirir massa de testes previamente.
 
 ## 🟰 Cálculo da Melhoria de Performance:
 
