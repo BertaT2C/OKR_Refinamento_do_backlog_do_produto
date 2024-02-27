@@ -36,7 +36,16 @@ Para calcular a melhoria de performance, consideramos o número total de dias an
 ## (7-3)/7 * 100% ≈ 57.14%
 
 ## 🟰 Impacto da Implementação:
-Após a implementação das mudanças, a comunicação dentro da equipe tornou-se significativamente mais fluida. A equipe de desenvolvimento agora adota uma abordagem mais ágil para lidar com suas dúvidas, apresentando-as de maneira mais clara e concisa. Utilizando conceitos do Lean Six Sigma, conseguimos reduzir a variabilidade no processo de comunicação e eliminar desperdícios de tempo, resultando em uma resolução mais rápida de problemas e um progresso mais eficiente nos projetos.
+        
+Utilizando conceitos do Lean Six Sigma, identificamos as causas raízes dos problemas de comunicação e refinamos os processos para eliminar desperdícios e reduzir variações, tornando a comunicação mais fluida e eficiente. Essa mudança simples teve um impacto enorme na eficiência da equipe, resultando em uma melhoria significativa na qualidade dos processos e na satisfação do cliente.
+
+## 🟰 Considerações Finais:
+A implementação de cenários de usuário detalhados foi uma mudança simples, porém altamente eficaz, que trouxe ganhos enormes para a equipe. A comunicação tornou-se mais clara, os processos ficaram mais eficientes e o progresso do projeto foi significativamente impulsionado. Esta abordagem demonstra como pequenas melhorias podem ter um grande impacto no desempenho geral da equipe.
+
+
+
+
+
 
 ![HhgfGIF](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/a1e9f792-dba1-4ab9-befc-a7254353696c)
 
