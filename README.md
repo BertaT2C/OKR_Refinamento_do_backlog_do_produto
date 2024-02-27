@@ -12,7 +12,7 @@ da proposta do projeto.
 Essa situação leva à várias dúvidas, resultando em múltiplos refinamentos ao longo da planning. As conversas particulares em momentos distintos do dia também 
 contribui na ajuda da falta de alinhamento. 
 Essa falta de entendimento gera a necessidade de novas apresentações, prejudicando o progresso do projeto e aumentando o tempo necessário para sua conclusão.
-Consequentemente, isso muitas vezes leva à percepção de que o projeto não estava sendo bem explicado ou de que havia um gargalo na comunicação, dificultando 
+Consequentemente, isso muitas vezes leva à percepção de que o projeto não estava sendo bem explicado ou um gargalo na comunicação, dificultando 
   o entendimento por parte dos desenvolvedores.
 
 ## 🟰 Objetivo da meta: Melhorar a eficiência operacional e a qualidade dos processos através da implementação de novas abordagens e metodologias.
