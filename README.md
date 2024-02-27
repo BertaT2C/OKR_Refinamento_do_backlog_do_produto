@@ -8,7 +8,7 @@ Busca eliminar desperdícios, identificar e remover causas de defeitos, minimiza
 
 
 Durante a execução de um projeto, especialmente durante as reuniões de refinamento, os desenvolvedores muitas vezes enfrentam desafios de compreensão
-da proposta.
+da proposta do projeto.
 Essa situação leva à várias dúvidas, resultando em múltiplos refinamentos ao longo do tempo. As conversas particulares em momentos distintos do dia também 
 contribui na ajuda da falta de alinhamento. 
 Essa falta de entendimento gera a necessidade de novas apresentações, prejudicando o progresso do projeto e aumentando o tempo necessário para sua conclusão.
