@@ -26,8 +26,8 @@ Para calcular a melhoria de performance, consideramos o número total de dias an
 ## = (Dias Antes − Dias Depois / Dias antes) × 100 %
 ## (7-3)/7 * 100% ≈ 57.14%
 
-A comunicação dentro da equipe tornou-se significativamente mais fluida após a implementação das mudanças.
-Além disso, a equipe de desenvolvimento agora tem uma abordagem mais ágil para lidar com suas dúvidas. O processo de comunicação foi aprimorado, permitindo que eles apresentassem suas dúvidas de maneira mais clara e concisa. Essas dúvidas foram então prontamente abordadas e solucionadas, resultando em uma resolução mais rápida de problemas e um progresso mais eficiente nos projetos.
+## 🟰 Impacto da Implementação:
+Após a implementação das mudanças, a comunicação dentro da equipe tornou-se significativamente mais fluida. A equipe de desenvolvimento agora adota uma abordagem mais ágil para lidar com suas dúvidas, apresentando-as de maneira mais clara e concisa. Utilizando conceitos do Lean Six Sigma, conseguimos reduzir a variabilidade no processo de comunicação e eliminar desperdícios de tempo, resultando em uma resolução mais rápida de problemas e um progresso mais eficiente nos projetos.
 
 ![HhgfGIF](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/a1e9f792-dba1-4ab9-befc-a7254353696c)
 
