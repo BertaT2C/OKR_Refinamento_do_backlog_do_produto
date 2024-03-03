@@ -25,14 +25,33 @@ O processo se inicia com o Product Owner expressando a necessidade de adquirir u
 
 Após essa interação inicial, iniciam-se as reuniões com os stakeholders para avaliar a viabilidade dos serviços e integrações necessários. Em seguida, a equipe de Negócios trabalha diligentemente no desenvolvimento do fluxograma "to be" para refinamento junto à equipe de Desenvolvimento.O processo se inicia com o Product Owner expressando a necessidade de adquirir um novo sistema ou aprimorar um já existente. Essa demanda é então repassada ao Analista de Projetos e à equipe de Negócios, que se reúnem para uma análise minuciosa da solicitação. O Analista elabora os requisitos funcionais e não funcionais da demanda, mapeia o processo inicial e agenda uma reunião com a equipe de Negócios para iniciar o brainstorming. Nesse estágio, o foco está na criação do fluxograma inicial do projeto, especialmente quando não se trata de desenvolver um software do zero (caso contrário, começaríamos com um MVP).
 
-Após essa interação inicial, iniciam-se as reuniões com os stakeholders para avaliar a viabilidade dos serviços e integrações necessários. Em seguida, a equipe de Negócios trabalha diligentemente no desenvolvimento do fluxograma "to be" para refinamento junto à equipe de Desenvolvimento.
+Após essa interação inicial, começam as reuniões com os stakeholders para avaliar a viabilidade dos serviços e integrações necessários. Em seguida, a equipe de Negócios trabalha diligentemente no desenvolvimento do fluxograma "to be" para refinamento junto à equipe de Desenvolvimento.
 
-Para melhorar a interação do time de negócios, algumas rotinas foram estabelecidas com o intuito de garantir a adoção de boas práticas dentro da equipe e, ao mesmo tempo, manter a cultura organizacional focada em resultados. Essas práticas eram conduzidas pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe.
+💡Para melhorar a interação do time de negócios, algumas rotinas foram estabelecidas com o intuito de garantir a adoção de boas práticas dentro da equipe e, ao mesmo tempo, manter a cultura organizacional focada em resultados. Essas práticas eram conduzidas pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe. São elas:
 
 ## 🟰 OKR Times
-    
 
-        
+### ✅Onboarding
+
+Objetivo: estabelecer cultura de resultado desde o início.
+
+Novos contratados são apresentados ao processo de OKR, recebendo links da base de conhecimento da empresa onde documentos mais detalhados e treinamentos são indicados
+
+### ✅Treinamentos
+
+Objetivo: reforçar conceitos, retirar dúvidas do dia-a-dia, atualizar sobre evoluções de processos e ferramentas.
+
+Pelo menos duas vezes ao ano, treinamentos síncronos eram promovidos pelo time de estratégia em parceria com o time de Product Operations, garantindo que evoluções de práticas fossem disseminadas.
+
+### ✅Facilitações
+
+Objetivo: suporte hands-on aos times durante os ciclos de planejamento.
+
+Acreditamos que o surporte sob demanda ajuda a evoluir a prática, reforçando conceitos aprendidos nos treinamentos. Além disso, estar próximo da definição da estratégia, criticando e contribuindo com uma visão sem viés pode ajudar a maximizar resultados.
+
+![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/b6452193-2504-4ce9-8f57-78d5ad39940b)
+
+           
  ![image-removebg-preview (3)](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/85a0903b-c7d9-4757-b106-11f4b5399268)
     
 
