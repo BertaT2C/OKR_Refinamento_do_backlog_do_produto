@@ -31,7 +31,7 @@ Após essa interação inicial, começam as reuniões com os stakeholders para a
 
 ## 🟰 OKR Times
 
-💡Para melhorar a interação do time de negócios, algumas rotinas foram estabelecidas com o intuito de garantir a adoção de boas práticas dentro da equipe e, ao mesmo tempo, manter a cultura organizacional focada em resultados. Essas práticas eram conduzidas pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe. São elas:
+### 💡Estratégia: para melhorar a interação do time de negócios, algumas rotinas foram estabelecidas com o intuito de garantir a adoção de boas práticas dentro da equipe e, ao mesmo tempo, manter a cultura organizacional focada em resultados. Essas práticas eram conduzidas pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe. São elas:
 
 ### ✅Onboarding
 
