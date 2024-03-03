@@ -2,31 +2,38 @@
 
 Refinamento, também conhecido como Refinamento do Backlog ou Refinamento do Backlog do Produto, é o processo de revisar, esclarecer e preparar os itens do Backlog do Produto para sprints futuros. É uma atividade colaborativa que envolve o Time Scrum, incluindo o Product Owner, o Scrum Master e o Time de Desenvolvimento. O objetivo do Refinamento é garantir que o Product Backlog esteja pronto, contendo itens bem definidos e priorizados.
 
+Ser Ágil:
+- Eliminar desperdício
+- Realizar o caminho apenas uma vez sem voltar a fazer
+- Planejar com qualidade
+- Entregar com valor
+
 Com base nesse contexto, estamos focados em aprimorar o refinamento da equipe. Atualmente, contamos com uma equipe composta por 30 colaboradores em uma squad, um número que excede os limites recomendados para uma equipe Scrum. Essa quantidade de integrantes tem impactado significativamente no desenvolvimento e na agilidade do refinamento do projeto, especialmente considerando que os backlogs estavam sendo divididos por equipes. Portanto, a equipe é composta por:
 
 
 ![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/b1b9c01e-17a1-47cd-a7ea-aa7156e838ad)
 
-O backlog era dividido entre time de negócios e desenvolvedores, mas toda a cerimônia Scrum era composta pelas 30 pessoas do time, portanto era mais que necessário um detalhamento dos processos, pois muita gente envolvida dentro de uma cerimônia, onde muitos não participariam do projeto em específico mas se envolviam na apresentação da entrega, com o brainstorming, informações que eram relevantes, mas trazia mais insites aos que estavam ativamente no projeto, e estas abordagens pediam mais detalhamento no projeto e histórias
+O backlog era dividido entre time de negócios e desenvolvedores, mas toda a cerimônia Scrum era composta pelas 30 pessoas do time, portanto era mais que necessário um detalhamento dos processos, pois muita gente envolvida dentro de uma cerimônia, onde muitos não participariam do projeto em específico mas se envolviam na apresentação da entrega, com o brainstorming, informações que eram relevantes, mas trazia mais insites aos que estavam ativamente no projeto, e estas abordagens pediam mais detalhamento no projeto e histórias.
 
-![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/ad9e49bc-3182-4ab4-a70d-4ce848f18b2b)
+ ## 🟰 Detalhamento e divisão do backlog do time de negócios
+ 
+![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/38708672-2b45-4a8c-903c-a707cf2750b2)
 
 *Foram usados nomes fictícios para representar o time
 
-Ser Ágil:
-- Não é rapidez, velocidade
-- Eliminar desperdício
-- Realizar o caminho apenas uma vez sem voltar a fazer
-- Planejar com qualidade
-- Entrega de valor
+## 🟰 OKR Times
+    
+Algumas rotinas foram estabelecidas com o intuito de assegurar a adoção de boas práticas dentro da equipe e, simultaneamente, manter a cultura organizacional centrada em resultados. Essa prática era conduzida pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe.
 
-Algumas rotinas foram criadas como forma de garantir boas práticas na equipe e também manter a cultura focada em resultados.
+        
+ ![image-removebg-preview (3)](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/85a0903b-c7d9-4757-b106-11f4b5399268)
+    
 
-![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/5758777f-b6e4-4c54-a0fe-d645bc7539e2)
+▶️Durante a execução de um projeto, especialmente nas reuniões de refinamento do Scrum, os desenvolvedores frequentemente enfrentam desafios para compreender completamente a proposta do projeto. Essa situação leva a diversas dúvidas, resultando em múltiplos refinamentos ao longo do planejamento. Além disso, as conversas particulares em momentos distintos do dia também demonstram essa falta de alinhamento. A lacuna de entendimento gera a necessidade de novas apresentações, prejudicando o progresso do projeto e aumentando o tempo necessário para sua conclusão. Consequentemente, isso muitas vezes leva à percepção de que o projeto não estava sendo bem explicado ou que havia um gargalo na comunicação, dificultando o entendimento por parte dos desenvolvedores e área de negócios.
 
-Durante a execução de um projeto, especialmente nas reuniões de refinamento do Scrum, os desenvolvedores frequentemente enfrentam desafios para compreender completamente a proposta do projeto. Essa situação leva a diversas dúvidas, resultando em múltiplos refinamentos ao longo do planejamento. Além disso, as conversas particulares em momentos distintos do dia também demonstram essa falta de alinhamento. A lacuna de entendimento gera a necessidade de novas apresentações, prejudicando o progresso do projeto e aumentando o tempo necessário para sua conclusão. Consequentemente, isso muitas vezes leva à percepção de que o projeto não estava sendo bem explicado ou que havia um gargalo na comunicação, dificultando o entendimento por parte dos desenvolvedores e área de negócios.
 
-![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/05f744b2-2730-4d3a-8100-da22bacbbc45)
+![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/db395c35-6277-4126-a037-a73fb47d8328)
+
 
 ## ✅Melhoria da Eficiência Operacional e Qualidade dos Processos no Contexto Scrum Utilizando Conceitos de Lean Six Sigma
     
@@ -36,7 +43,8 @@ Busca a eliminação de desperdícios, identifica e remove causas de defeitos, m
 
 ![NightRoundTheClockGIF](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/0469edea-70be-4d57-8dc2-4251304cf068)
 
- ## 🟰 Objetivo da meta:
+![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/d353c1d4-c1fb-4a21-b9d5-b50a68f739ec)
+
 Melhorar a eficiência operacional e a qualidade dos processos através da implementação de novas abordagens e metodologias, utilizando princípios do Lean Six Sigma.
 
 ## 🟰 Solução Implementada:
