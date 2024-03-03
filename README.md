@@ -31,10 +31,6 @@ Algumas rotinas foram estabelecidas com o intuito de assegurar a adoção de boa
 
 ▶️Durante a execução de um projeto, especialmente nas reuniões de refinamento do Scrum, os desenvolvedores frequentemente enfrentam desafios para compreender completamente a proposta do projeto. Essa situação leva a diversas dúvidas, resultando em múltiplos refinamentos ao longo do planejamento. Além disso, as conversas particulares em momentos distintos do dia também demonstram essa falta de alinhamento. A lacuna de entendimento gera a necessidade de novas apresentações, prejudicando o progresso do projeto e aumentando o tempo necessário para sua conclusão. Consequentemente, isso muitas vezes leva à percepção de que o projeto não estava sendo bem explicado ou que havia um gargalo na comunicação, dificultando o entendimento por parte dos desenvolvedores e área de negócios.
 
-
-![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/db395c35-6277-4126-a037-a73fb47d8328)
-
-
 ## ✅Melhoria da Eficiência Operacional e Qualidade dos Processos no Contexto Scrum Utilizando Conceitos de Lean Six Sigma
     
 ## Lean six sigma: 
