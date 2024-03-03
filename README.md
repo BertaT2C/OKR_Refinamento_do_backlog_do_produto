@@ -72,7 +72,24 @@ Busca a eliminação de desperdícios, identifica e remove causas de defeitos, m
 Melhorar a eficiência operacional e a qualidade dos processos através da implementação de novas abordagens e metodologias, utilizando princípios do Lean Six Sigma.
 
 ## 🟰 Solução Implementada:
-A solução consistiu na implementação detalhada de cenários de usuário com regras minuciosas. Diferentemente do método anterior, onde os cenários eram genéricos, iniciamos um detalhamento aprimorado na escrita. Desenvolvemos um fluxograma completo do projeto, incluindo etapas como timeout, not found e mensagens de erros da API, que antes não eram consideradas. Essa abordagem foi essencial para facilitar até mesmo o momento da homologação, pois o Analista QA utilizava esse passo a passo para entender os cenários de testes necessários e adquirir massa de testes previamente.
+
+Aqui estão algumas métricas e contramedidas para a situação descrita:
+
+### ▶️Métricas:
+Cobertura de Cenários de Usuário: Medir a porcentagem de cenários de usuário detalhados em relação ao total de cenários existentes.
+Completeness do Fluxograma: Avaliar se todas as etapas críticas do projeto foram incluídas no fluxograma.
+Eficiência da Homologação: Medir o tempo necessário para o Analista QA entender os cenários de teste e adquirir massa de testes previamente.
+Qualidade das Mensagens de Erro: Avaliar a clareza e precisão das mensagens de erro da API.
+
+### ▶️Contramedidas:
+#### 🟰Implementação Detalhada de Cenários de Usuário:
+Continuar aprimorando a escrita dos cenários de usuário, detalhando regras e especificações para garantir uma compreensão completa.
+#### Revisão Contínua do Fluxograma:
+Realizar revisões periódicas do fluxograma para garantir que todas as etapas importantes sejam consideradas e documentadas.
+#### 🟰Treinamento do Analista QA:
+Fornecer treinamento adicional ao Analista QA sobre como utilizar o passo a passo detalhado e os cenários de teste para a homologação de forma eficiente.
+#### 🟰Feedback dos Usuários:
+Solicitar feedback dos usuários sobre a clareza e utilidade das mensagens de erro da API e fazer ajustes conforme necessário.
 
 ### 🟰 Benefícios da Mudança:
 
@@ -93,8 +110,8 @@ Para calcular a melhoria de performance, consideramos o número total de dias an
 🗓️Dias depois = quantidade de dias de apresentações e resolução de dúvidas depois da implementação das regras e detalhes de escrita
 <br>
 
-## = (Dias Antes − Dias Depois / Dias antes) × 100 %
-## (7-3)/7 * 100% ≈ 57.14%
+### = (Dias Antes − Dias Depois / Dias antes) × 100 %
+### (7-3)/7 * 100% ≈ 57.14%
 
 ## 🟰 Impacto da Implementação:
         
