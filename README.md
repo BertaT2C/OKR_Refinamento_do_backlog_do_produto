@@ -27,9 +27,11 @@ Após essa interação inicial, iniciam-se as reuniões com os stakeholders para
 
 Após essa interação inicial, começam as reuniões com os stakeholders para avaliar a viabilidade dos serviços e integrações necessários. Em seguida, a equipe de Negócios trabalha diligentemente no desenvolvimento do fluxograma "to be" para refinamento junto à equipe de Desenvolvimento.
 
-💡Para melhorar a interação do time de negócios, algumas rotinas foram estabelecidas com o intuito de garantir a adoção de boas práticas dentro da equipe e, ao mesmo tempo, manter a cultura organizacional focada em resultados. Essas práticas eram conduzidas pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe. São elas:
+▶️Durante a execução de cada projeto, especialmente nas reuniões de refinamento do Scrum, os desenvolvedores frequentemente enfrentam desafios para compreender completamente a proposta do projeto e regras de negócios. Essa situação leva a diversas dúvidas, resultando em múltiplos refinamentos ao longo do planejamento. Além disso, as conversas particulares em momentos distintos do dia também demonstram essa falta de alinhamento. A lacuna de entendimento gera a necessidade de novas apresentações, prejudicando o progresso do projeto e aumentando o tempo necessário para sua conclusão. Consequentemente, isso muitas vezes leva à percepção de que o projeto não estava sendo bem explicado ou que havia um gargalo na comunicação, dificultando o entendimento por parte dos desenvolvedores e área de negócios.
 
 ## 🟰 OKR Times
+
+💡Para melhorar a interação do time de negócios, algumas rotinas foram estabelecidas com o intuito de garantir a adoção de boas práticas dentro da equipe e, ao mesmo tempo, manter a cultura organizacional focada em resultados. Essas práticas eram conduzidas pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe. São elas:
 
 ### ✅Onboarding
 
@@ -54,8 +56,6 @@ Acreditamos que o surporte sob demanda ajuda a evoluir a prática, reforçando c
            
  ![image-removebg-preview (3)](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/85a0903b-c7d9-4757-b106-11f4b5399268)
     
-
-▶️Durante a execução de um projeto, especialmente nas reuniões de refinamento do Scrum, os desenvolvedores frequentemente enfrentam desafios para compreender completamente a proposta do projeto. Essa situação leva a diversas dúvidas, resultando em múltiplos refinamentos ao longo do planejamento. Além disso, as conversas particulares em momentos distintos do dia também demonstram essa falta de alinhamento. A lacuna de entendimento gera a necessidade de novas apresentações, prejudicando o progresso do projeto e aumentando o tempo necessário para sua conclusão. Consequentemente, isso muitas vezes leva à percepção de que o projeto não estava sendo bem explicado ou que havia um gargalo na comunicação, dificultando o entendimento por parte dos desenvolvedores e área de negócios.
 
 ## ✅Melhoria da Eficiência Operacional e Qualidade dos Processos no Contexto Scrum Utilizando Conceitos de Lean Six Sigma
     
