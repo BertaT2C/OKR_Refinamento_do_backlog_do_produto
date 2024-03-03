@@ -58,7 +58,9 @@ Acreditamos que o surporte sob demanda ajuda a evoluir a prática, reforçando c
     
 
 ## ✅Melhoria da Eficiência Operacional e Qualidade dos Processos no Contexto Scrum Utilizando Conceitos de Lean Six Sigma
-    
+
+## 🟰 Métricas e contra medidas
+       
 ## Lean six sigma: 
 Busca a eliminação de desperdícios, identifica e remove causas de defeitos, minimiza a variabilidade e melhora a qualidade dos processos de negócios.
 
