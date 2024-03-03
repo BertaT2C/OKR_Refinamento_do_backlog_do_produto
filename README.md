@@ -21,9 +21,16 @@ O backlog era dividido entre time de negócios e desenvolvedores, mas toda a cer
 
 *Foram usados nomes fictícios para representar o time
 
+O processo se inicia com o Product Owner expressando a necessidade de adquirir um novo sistema ou aprimorar um já existente. Essa demanda é então repassada ao Analista de Projetos e à equipe de Negócios, que se reúnem para uma análise minuciosa da solicitação. O Analista elabora os requisitos funcionais e não funcionais da demanda, mapeia o processo inicial e agenda uma reunião com a equipe de Negócios para iniciar o brainstorming. Nesse estágio, o foco está na criação do fluxograma inicial do projeto, especialmente quando não se trata de desenvolver um software do zero (caso contrário, começaríamos com um MVP).
+
+Após essa interação inicial, iniciam-se as reuniões com os stakeholders para avaliar a viabilidade dos serviços e integrações necessários. Em seguida, a equipe de Negócios trabalha diligentemente no desenvolvimento do fluxograma "to be" para refinamento junto à equipe de Desenvolvimento.O processo se inicia com o Product Owner expressando a necessidade de adquirir um novo sistema ou aprimorar um já existente. Essa demanda é então repassada ao Analista de Projetos e à equipe de Negócios, que se reúnem para uma análise minuciosa da solicitação. O Analista elabora os requisitos funcionais e não funcionais da demanda, mapeia o processo inicial e agenda uma reunião com a equipe de Negócios para iniciar o brainstorming. Nesse estágio, o foco está na criação do fluxograma inicial do projeto, especialmente quando não se trata de desenvolver um software do zero (caso contrário, começaríamos com um MVP).
+
+Após essa interação inicial, iniciam-se as reuniões com os stakeholders para avaliar a viabilidade dos serviços e integrações necessários. Em seguida, a equipe de Negócios trabalha diligentemente no desenvolvimento do fluxograma "to be" para refinamento junto à equipe de Desenvolvimento.
+
+Para melhorar a interação do time de negócios, algumas rotinas foram estabelecidas com o intuito de garantir a adoção de boas práticas dentro da equipe e, ao mesmo tempo, manter a cultura organizacional focada em resultados. Essas práticas eram conduzidas pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe.
+
 ## 🟰 OKR Times
     
-Algumas rotinas foram estabelecidas com o intuito de assegurar a adoção de boas práticas dentro da equipe e, simultaneamente, manter a cultura organizacional centrada em resultados. Essa prática era conduzida pelos colaboradores mais experientes, que desempenhavam um papel crucial na transferência de conhecimento aos novos membros que estavam ingressando na equipe.
 
         
  ![image-removebg-preview (3)](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/85a0903b-c7d9-4757-b106-11f4b5399268)
