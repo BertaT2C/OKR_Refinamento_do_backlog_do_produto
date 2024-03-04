@@ -1,4 +1,9 @@
-# ✅Melhoria no Refinamento do backlog do produto
+
+![image](https://github.com/BertaT2C/Refinamento_do_backlog_do_produto/assets/99225701/020637d6-5c0f-4882-90a3-87ae206d50e6)
+
+
+
+# ✅Aplicação de OKR para Melhoria no Refinamento do backlog do produto e otimização de projetos na equipe
 
 Refinamento, também conhecido como Refinamento do Backlog ou Refinamento do Backlog do Produto, é o processo de revisar, esclarecer e preparar os itens do Backlog do Produto para sprints futuros. É uma atividade colaborativa que envolve o Time Scrum, incluindo o Product Owner, o Scrum Master e o Time de Desenvolvimento. O objetivo do Refinamento é garantir que o Product Backlog esteja pronto, contendo itens bem definidos e priorizados.
 
@@ -7,6 +12,8 @@ Ser Ágil:
 - Realizar o caminho apenas uma vez sem voltar a fazer
 - Planejar com qualidade
 - Entregar com valor
+
+# ✅Cenário do cliente
 
 Com base nesse contexto, estamos focados em aprimorar o refinamento da equipe. Atualmente, contamos com uma equipe composta por 30 colaboradores em uma squad, um número que excede os limites recomendados para uma equipe Scrum. Essa quantidade de integrantes tem impactado significativamente no desenvolvimento e na agilidade do refinamento do projeto, especialmente considerando que os backlogs estavam sendo divididos por equipes. Portanto, a equipe é composta por:
 
