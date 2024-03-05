@@ -23,10 +23,10 @@ Com base nesse contexto, estamos focados em aprimorar o refinamento da equipe. A
 O backlog era dividido entre time de negócios e desenvolvedores, mas toda a cerimônia Scrum era composta pelas 30 pessoas do time, portanto era mais que necessário um detalhamento dos processos, pois muita gente envolvida dentro de uma cerimônia, onde muitos não participariam do projeto em específico mas se envolviam na apresentação da entrega, com o brainstorming, informações que eram relevantes, mas trazia mais insites aos que estavam ativamente no projeto, e estas abordagens pediam mais detalhamento no projeto e histórias.
 
  ## 🟰 Detalhamento e divisão do backlog do time de negócios
- 
-![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/38708672-2b45-4a8c-903c-a707cf2750b2)
 
-*Foram usados nomes fictícios para representar o time
+![planilha de neggócios](https://github.com/BertaT2C/OKR_Refinamento_do_backlog_do_produto/assets/99225701/4decd91f-a5bd-4197-b4e2-b0e0ef7506cd)
+
+🔴Foram usados nomes fictícios para representar o time
 
 O processo se inicia com o Product Owner expressando a necessidade de adquirir um novo sistema ou aprimorar um já existente. Essa demanda é então repassada ao Analista de Projetos e à equipe de Negócios, que se reúnem para uma análise minuciosa da solicitação. O Analista elabora os requisitos funcionais e não funcionais da demanda, mapeia o processo inicial e agenda uma reunião com a equipe de Negócios para iniciar o brainstorming. Nesse estágio, o foco está na criação do fluxograma inicial do projeto, especialmente quando não se trata de desenvolver um software do zero (caso contrário, começaríamos com um MVP).
 
