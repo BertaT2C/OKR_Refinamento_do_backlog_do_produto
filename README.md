@@ -69,7 +69,7 @@ Acreditamos que o surporte sob demanda ajuda a evoluir a prática, reforçando c
 ## 🟰 Métricas e contra medidas
        
 ## Lean six sigma: 
-Busca a eliminação de desperdícios, identifica e remove causas de defeitos, minimiza a variabilidade e melhora a qualidade dos processos de negócios.
+#### Busca a eliminação de desperdícios, identifica e remove causas de defeitos, minimiza a variabilidade e melhora a qualidade dos processos de negócios.
 
 
 ![NightRoundTheClockGIF](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/0469edea-70be-4d57-8dc2-4251304cf068)
@@ -83,12 +83,15 @@ Melhorar a eficiência operacional e a qualidade dos processos através da imple
 Aqui estão algumas métricas e contramedidas para a situação descrita:
 
 ### ▶️Métricas:
-Cobertura de Cenários de Usuário: Medir a porcentagem de cenários de usuário detalhados em relação ao total de cenários existentes.
-Completeness do Fluxograma: Avaliar se todas as etapas críticas do projeto foram incluídas no fluxograma.
-Eficiência da Homologação: Medir o tempo necessário para o Analista QA entender os cenários de teste e adquirir massa de testes previamente.
-Qualidade das Mensagens de Erro: Avaliar a clareza e precisão das mensagens de erro da API.
+<br>
+
+__Cobertura de Cenários de Usuário:__ Medir a porcentagem de cenários de usuário detalhados em relação ao total de cenários existentes.
+__Completeness do Fluxograma:__ Avaliar se todas as etapas críticas do projeto foram incluídas no fluxograma.
+__Eficiência da Homologação:__ Medir o tempo necessário para o Analista QA entender os cenários de teste e adquirir massa de testes previamente.
+__Qualidade das Mensagens de Erro:__ Avaliar a clareza e precisão das mensagens de erro da API.
 
 ### ▶️Contramedidas:
+<br>
 #### 🟰Implementação Detalhada de Cenários de Usuário:
 Continuar aprimorando a escrita dos cenários de usuário, detalhando regras e especificações para garantir uma compreensão completa.
 #### Revisão Contínua do Fluxograma:
