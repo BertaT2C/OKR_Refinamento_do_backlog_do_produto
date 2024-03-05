@@ -22,7 +22,7 @@ Com base nesse contexto, estamos focados em aprimorar o refinamento da equipe. A
 
 O backlog era dividido entre time de negócios e desenvolvedores, mas toda a cerimônia Scrum era composta pelas 30 pessoas do time, portanto era mais que necessário um detalhamento dos processos, pois muita gente envolvida dentro de uma cerimônia, onde muitos não participariam do projeto em específico mas se envolviam na apresentação da entrega, com o brainstorming, informações que eram relevantes, mas trazia mais insites aos que estavam ativamente no projeto, e estas abordagens pediam mais detalhamento no projeto e histórias.
 
- ## 🟰 Detalhamento e divisão do backlog do time de negócios
+ ## 🟰 Divisão do backlog do time de negócios
 
 ![planilha de neggócios](https://github.com/BertaT2C/OKR_Refinamento_do_backlog_do_produto/assets/99225701/4decd91f-a5bd-4197-b4e2-b0e0ef7506cd)
 
