@@ -58,12 +58,6 @@ Objetivo: suporte hands-on aos times durante os ciclos de planejamento.
 
 Acreditamos que o surporte sob demanda ajuda a evoluir a prática, reforçando conceitos aprendidos nos treinamentos. Além disso, estar próximo da definição da estratégia, criticando e contribuindo com uma visão sem viés pode ajudar a maximizar resultados.
 
-![image](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/b6452193-2504-4ce9-8f57-78d5ad39940b)
-
-           
- ![image-removebg-preview (3)](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/85a0903b-c7d9-4757-b106-11f4b5399268)
-    
-
 ## ✅Melhoria da Eficiência Operacional e Qualidade dos Processos no Contexto Scrum Utilizando Conceitos de Lean Six Sigma
 
 ## 🟰 Métricas e contra medidas
