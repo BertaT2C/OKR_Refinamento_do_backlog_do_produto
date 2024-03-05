@@ -79,32 +79,26 @@ Aqui estão algumas métricas e contramedidas para a situação descrita:
 ### ▶️Métricas:
 <br>
 
-__Cobertura de Cenários de Usuário:__ Medir a porcentagem de cenários de usuário detalhados em relação ao total de cenários existentes.
-__Completeness do Fluxograma:__ Avaliar se todas as etapas críticas do projeto foram incluídas no fluxograma.
-__Eficiência da Homologação:__ Medir o tempo necessário para o Analista QA entender os cenários de teste e adquirir massa de testes previamente.
-__Qualidade das Mensagens de Erro:__ Avaliar a clareza e precisão das mensagens de erro da API.
+-__Cobertura de Cenários de Usuário:__ Medir a porcentagem de cenários de usuário detalhados em relação ao total de cenários existentes.<br>
+-__Completeness do Fluxograma:__ Avaliar se todas as etapas críticas do projeto foram incluídas no fluxograma.<br>
+-__Eficiência da Homologação:__ Medir o tempo necessário para o Analista QA entender os cenários de teste e adquirir massa de testes previamente.<br>
+-__Qualidade das Mensagens de Erro:__ Avaliar a clareza e precisão das mensagens de erro da API.
 
 ### ▶️Contramedidas:
 <br>
-#### 🟰Implementação Detalhada de Cenários de Usuário:
-Continuar aprimorando a escrita dos cenários de usuário, detalhando regras e especificações para garantir uma compreensão completa.
-#### Revisão Contínua do Fluxograma:
-Realizar revisões periódicas do fluxograma para garantir que todas as etapas importantes sejam consideradas e documentadas.
-#### 🟰Treinamento do Analista QA:
-Fornecer treinamento adicional ao Analista QA sobre como utilizar o passo a passo detalhado e os cenários de teste para a homologação de forma eficiente.
-#### 🟰Feedback dos Usuários:
-Solicitar feedback dos usuários sobre a clareza e utilidade das mensagens de erro da API e fazer ajustes conforme necessário.
 
-### 🟰 Benefícios da Mudança:
+-__Implementação Detalhada de Cenários de Usuário:__ Continuar aprimorando a escrita dos cenários de usuário, detalhando regras e especificações para garantir uma compreensão completa.<br>
+-__Revisão Contínua do Fluxograma:__ Realizar revisões periódicas do fluxograma para garantir que todas as etapas importantes sejam consideradas e documentadas.<br>
+-__Treinamento do Analista QA:__ Fornecer treinamento adicional ao Analista QA sobre como utilizar o passo a passo detalhado e os cenários de teste para a homologação de forma eficiente.<br>
+-__Feedback dos Usuários:__ Solicitar feedback dos usuários sobre a clareza e utilidade das mensagens de erro da API e fazer ajustes conforme necessário.
 
-#### - Compreensão Profunda: 
-A nova abordagem resultou em uma compreensão muito mais profunda dos estudos de caso e das melhorias propostas pela equipe.
-#### - Redução de Dúvidas e Refinamentos:
-Com os cenários detalhados, houve uma significativa redução de dúvidas e refinamentos ao longo do planejamento do projeto.
-#### - Facilidade na Homologação:
-O processo de homologação tornou-se mais eficiente e eficaz, pois o Analista QA tinha um guia detalhado para conduzir os testes necessários.    
+### ▶️ Benefícios da Mudança:
 
-## 🟰 Cálculo da Melhoria de Performance:
+-__Compreensão Profunda:__ A nova abordagem resultou em uma compreensão muito mais profunda dos estudos de caso e das melhorias propostas pela equipe.<br>
+-__Redução de Dúvidas e Refinamentos:__ Com os cenários detalhados, houve uma significativa redução de dúvidas e refinamentos ao longo do planejamento do projeto.<br>
+-__Facilidade na Homologação:__ O processo de homologação tornou-se mais eficiente e eficaz, pois o Analista QA tinha um guia detalhado para conduzir os testes necessários.    
+
+### ▶️ Cálculo da Melhoria de Performance:
 
 Para calcular a melhoria de performance, consideramos o número total de dias antes e depois da implementação das melhorias dentro de uma sprint de 4 semanas. 
 
@@ -117,11 +111,11 @@ Para calcular a melhoria de performance, consideramos o número total de dias an
 ### = (Dias Antes − Dias Depois / Dias antes) × 100 %
 ### (7-3)/7 * 100% ≈ 57.14%
 
-## 🟰 Impacto da Implementação:
+## ✅ Impacto da Implementação:
         
 Utilizando conceitos do Lean Six Sigma, identificamos as causas raízes dos problemas de comunicação e refinamos os processos para eliminar desperdícios e reduzir variações, tornando a comunicação mais fluida e eficiente. Essa mudança simples teve um impacto enorme na eficiência da equipe, resultando em uma melhoria significativa na qualidade dos processos e na satisfação do cliente.
 
-## 🟰 Considerações Finais:
+## ✅ Considerações Finais:
 A implementação de cenários de usuário detalhados foi uma mudança simples, porém altamente eficaz, que trouxe ganhos enormes para a equipe. A comunicação tornou-se mais clara, os processos ficaram mais eficientes e o progresso do projeto foi significativamente impulsionado. Esta abordagem demonstra como pequenas melhorias podem ter um grande impacto no desempenho geral da equipe.
 
 
