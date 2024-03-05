@@ -43,8 +43,8 @@ Após essa interação inicial, começam as reuniões com os stakeholders para a
 ### ✅Onboarding
 
 Objetivo: estabelecer cultura de resultado desde o início.
-
 Novos contratados são apresentados ao processo de OKR, recebendo links da base de conhecimento da empresa onde documentos mais detalhados e treinamentos são indicados
+
 
 ### ✅Treinamentos
 
