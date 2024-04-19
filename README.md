@@ -1,7 +1,8 @@
 
-![image](https://github.com/BertaT2C/Refinamento_do_backlog_do_produto/assets/99225701/020637d6-5c0f-4882-90a3-87ae206d50e6)
+![_4bab89d0-201b-48fe-90ee-9897eaae90e7](https://github.com/BertaT2C/OKR_Refinamento_do_backlog_do_produto/assets/99225701/1c80f513-073b-4bd2-9c79-4adbb6169fb9)
 
-
+**🚨 Aviso Importante: Todas as informações contidas nos projetos deste repositório são fictícias e foram criadas exclusivamente para fins de demonstração ou simulação.**
+<br>
 
 # ✅Aplicação de OKR para melhoria no refinamento do backlog do produto e otimização na comunicação e alinhamento nos projetos da equipe
 
