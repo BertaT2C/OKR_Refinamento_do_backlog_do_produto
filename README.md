@@ -27,7 +27,6 @@ O backlog era dividido entre time de negócios e desenvolvedores, mas toda a cer
 
 ![planilha de neggócios](https://github.com/BertaT2C/OKR_Refinamento_do_backlog_do_produto/assets/99225701/4decd91f-a5bd-4197-b4e2-b0e0ef7506cd)
 
-🔴Foram usados nomes fictícios para representar o time
 
 O processo se inicia com o Product Owner expressando a necessidade de adquirir um novo sistema ou aprimorar um já existente. Essa demanda é então repassada ao Analista de Projetos e à equipe de Negócios, que se reúnem para uma análise minuciosa da solicitação. O Analista elabora os requisitos funcionais e não funcionais da demanda, mapeia o processo inicial e agenda uma reunião com a equipe de Negócios para iniciar o brainstorming.
 
