@@ -1,5 +1,26 @@
 # Estudo de caso | OKR aplicado ao refinamento do Product Backlog
 
+## Do problema à proposta — trajetória do estudo de caso
+
+Este case apresenta a evolução da análise funcional para uma proposta de melhoria do refinamento, relacionando **problema de negócio, diagnóstico, processo, OKR, entregáveis e mensuração**.
+
+| Etapa | Necessidade analisada | Entrega / evidência |
+| --- | --- | --- |
+| **1. Desafio** | Cerimônias com 30 participantes, backlogs separados e dúvidas recorrentes | Definição do problema e objetivo de negócio |
+| **2. Discovery** | Entender por que histórias retornavam ao refinamento e atrasavam a compreensão do time | Análise dos pontos de comunicação entre negócio, TI e QA |
+| **3. AS IS** | PO apresenta a necessidade → negócio detalha → produz TO BE → equipe refina e esclarece | Descrição do processo e imagens originais |
+| **4. TO BE proposto** | Compartilhar contexto, regras, dependências e critérios antes da discussão | Rotina de preparação, refinamento e registro de decisões |
+| **5. OKR e ações** | Distinguir medidas de resultado das iniciativas de treinamento ou documentação | Objetivo, quatro KRs e iniciativas de melhoria |
+| **6. Validação proposta** | Saber se as histórias chegam mais claras para desenvolvimento e QA | Checklist de prontidão, fórmulas e rotina de acompanhamento |
+| **7. Valor e aprendizado** | Reduzir tempo de esclarecimento e retrabalho | Cálculo **ilustrativo** de 7 para 3 dias (57,14%); sem comprovação de implantação |
+
+**Documentação de apoio:** [OKR e indicadores](./docs/OKR_E_INDICADORES.md) · [Roteiro de refinamento](./docs/ROTINA_REFINAMENTO.md) · [Apresentação visual no portfólio](https://bertat2c.github.io/refinamento.html).
+
+**Situação do caso:** cenário e números ilustrativos. As ações e os KRs são propostas de gestão; não representam resultado real medido.
+
+
+---
+
 **Product Ownership · Análise de Negócios · Gestão por OKRs · Refinamento de Backlog · Lean Six Sigma**
 
 ![Imagem original de abertura do projeto de OKR](https://github.com/BertaT2C/OKR_Refinamento_do_backlog_do_produto/assets/99225701/1c80f513-073b-4bd2-9c79-4adbb6169fb9)
