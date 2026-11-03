@@ -1,6 +1,6 @@
 # Modelo de OKR e indicadores — Qualidade do Refinamento do Backlog
 
-> **Estudo de caso fictício.** Este documento traduz o problema original em um modelo de gestão por resultados. Não é um relatório de implantação ou de indicadores aferidos em uma organização real.
+> **Estudo de caso para portfólio.** Este documento traduz o cenário analisado em um modelo de gestão por resultados, com indicadores ilustrativos. Não é um relatório de implantação ou de indicadores aferidos em uma organização real.
 
 ## 1. Desafio que orienta o OKR
 
@@ -95,7 +95,7 @@ Medir no mesmo recorte e nas mesmas unidades entre os ciclos comparados.
 ## 6. Riscos de interpretação
 
 - **Equipe de 30 pessoas** é um dado do cenário; não assumir que todos fazem parte de um único Scrum Team formal ou que basta dividir pessoas para resolver o problema.
-- **A redução de 57,14%** é um cálculo correto sobre os números apresentados, mas a fonte classifica todo o projeto como fictício.
+- **A redução de 57,14%** é um cálculo correto sobre os números ilustrativos do estudo, mas não representa uma medição de resultado em operação real.
 - **Redução de dúvidas** e **melhoria da homologação** são benefícios narrados no estudo, sem série histórica, percentuais próprios ou comprovação de testes reais.
 - **Qualidade de mensagens de erro da API** aparece como indicador do caso, mas deve ser avaliada apenas quando houver integração e critérios específicos a validar; o estudo não fornece dados técnicos de implementação.
 
