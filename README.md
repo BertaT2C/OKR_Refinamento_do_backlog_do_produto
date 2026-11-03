@@ -1,10 +1,10 @@
-# OKR aplicado ao refinamento do Product Backlog
+# Estudo de caso | OKR aplicado ao refinamento do Product Backlog
 
 **Product Ownership · Análise de Negócios · Gestão por OKRs · Refinamento de Backlog · Lean Six Sigma**
 
 ![Imagem original de abertura do projeto de OKR](https://github.com/BertaT2C/OKR_Refinamento_do_backlog_do_produto/assets/99225701/1c80f513-073b-4bd2-9c79-4adbb6169fb9)
 
-> **Estudo de caso fictício:** as informações, situações e métricas deste repositório foram criadas para demonstração e simulação. Não representam implantação real, indicadores auditados ou resultados comprovados de uma empresa.
+> **Estudo de caso para portfólio:** o cenário e os indicadores foram organizados para demonstrar a aplicação de OKRs, refinamento de backlog e melhoria contínua. Os dados quantitativos são ilustrativos e não representam implantação, medição auditada ou resultado comprovado de uma empresa.
 
 ## Visão geral
 
@@ -74,7 +74,7 @@ O objetivo expressa a **mudança desejada**. Já os resultados-chave indicam com
 | **KR3 — Reduzir retornos ao refinamento** | % de histórias reapresentadas por falta de clareza | Linha de base e meta a estabelecer | Indicador proposto |
 | **KR4 — Melhorar a preparação dos testes** | Tempo para QA compreender cenários e preparar massa de testes | Linha de base e meta a estabelecer | Indicador proposto |
 
-**Atenção:** o valor de 57,14% vem de um **cálculo sobre números fictícios já presentes no estudo original**. Ele não demonstra ganho real de produtividade da equipe nem resultados de uma organização específica. Os demais KRs são sugestões de estruturação e não têm metas numéricas definidas no material de origem.
+**Atenção:** o valor de 57,14% vem de um **cálculo sobre números ilustrativos do estudo de caso**. Ele não demonstra ganho real de produtividade da equipe nem resultados de uma organização específica. Os demais KRs são sugestões de estruturação e não têm metas numéricas definidas no material de origem.
 
 ### Iniciativas para alcançar o objetivo
 
