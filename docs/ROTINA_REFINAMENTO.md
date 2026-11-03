@@ -1,6 +1,6 @@
 # Prática de refinamento do Product Backlog — proposta para o estudo de caso
 
-> Material complementar de **Análise de Negócios e Product Ownership** elaborado sobre um caso **fictício**. As etapas e critérios abaixo são uma proposta didática de organização; não representam cerimônias comprovadamente executadas.
+> Material complementar de **Análise de Negócios e Product Ownership** elaborado como **estudo de caso para portfólio**. As etapas e critérios abaixo são uma proposta didática de organização; não representam cerimônias comprovadamente executadas.
 
 ## 1. Situação apresentada no estudo original
 
