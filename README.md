@@ -78,6 +78,16 @@ Entre os efeitos descritos estavam:
 
 **Oportunidade de melhoria:** compartilhar o objetivo do produto, os fluxos, as regras e os critérios de aceitação de modo acessível, com as pessoas certas participando das decisões relevantes.
 
+## Exemplo visual complementar — maturidade em Discovery e Delivery
+
+O infográfico abaixo organiza um **outro exemplo de OKR estratégico de produto**, com quatro momentos de evolução (diagnóstico, estruturação, experimentação e escala), separando objetivos, resultados-chave e iniciativas.
+
+![Modelo de OKR com roadmap trimestral, indicadores de maturidade de Discovery e Delivery e metas pendentes de definição](./assets/okr-maturidade-discovery-delivery.svg)
+
+**Como interpretar:** o desenho é um exemplo de planejamento. Os indicadores de maturidade dos times e adoção de práticas necessitam de **linha de base, meta e responsáveis** antes de serem tratados como KRs aprovados. Treinamentos, ferramentas, base de conhecimento e bootcamp são **iniciativas**, não resultados-chave. O quadro não representa resultados medidos deste case de refinamento.
+
+[Ver o exemplo no portfólio](https://bertat2c.github.io/refinamento.html#modelo-okr).
+
 ## 2. OKR do time — proposta de melhoria
 
 ### Objetivo
@@ -118,7 +128,6 @@ A abordagem do estudo utiliza conceitos de **Lean Six Sigma** para observar desp
 
 ### Métricas e contramedidas
 
-![Animação original que acompanha a seção de melhoria contínua](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/0469edea-70be-4d57-8dc2-4251304cf068)
 
 ![Imagem original de apoio às métricas e contramedidas](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/d353c1d4-c1fb-4a21-b9d5-b50a68f739ec)
 
@@ -189,7 +198,6 @@ Este estudo reúne competências relacionadas a **Product Owner, Análise de Neg
 
 A principal mensagem é simples: **refinar não é repetir apresentações; é construir entendimento compartilhado para que o trabalho avance com mais qualidade e menos retrabalho.**
 
-![Animação original de encerramento do estudo](https://github.com/BertaT2C/Melhoria_no_entendimento_dos_cenarios_de_usuarios/assets/99225701/a1e9f792-dba1-4ab9-befc-a7254353696c)
 
 ---
 
